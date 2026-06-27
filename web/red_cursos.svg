@@ -756,7 +756,7 @@
     <g id="nodo-CI0200" href="#curso-CI0200">
       <circle cx="175.0" cy="267.5" r="18" fill="rgba(0,0,0,0.12)"/>
       <circle cx="175.0" cy="267.5" r="16"
-              fill="#78909c" stroke="white" stroke-width="2"/>
+              fill="#78909c" stroke="white" stroke-width="1"/>
       <text id="label-CI0200" href="#curso-CI0200"
             x="175.0" y="267.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -769,7 +769,7 @@ Bloque: 0 | Creditos: 0 | Horas: 0 | Area: Complementario</title>
     <g id="nodo-CI0202" href="#curso-CI0202">
       <circle cx="175.0" cy="652.5" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="175.0" cy="652.5" r="18.333333333333332"
-              fill="#00838f" stroke="white" stroke-width="2"/>
+              fill="#00838f" stroke="white" stroke-width="1.4"/>
       <text id="label-CI0202" href="#curso-CI0202"
             x="175.0" y="652.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -782,7 +782,7 @@ Bloque: 0 | Creditos: 2 | Horas: 3 | Area: Idiomas</title>
     <g id="nodo-AG1003" href="#curso-AG1003">
       <circle cx="345.0" cy="107.08333333333334" r="19.166666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="345.0" cy="107.08333333333334" r="17.166666666666668"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.4"/>
       <text id="label-AG1003" href="#curso-AG1003"
             x="345.0" y="107.08333333333334"
             text-anchor="middle" dominant-baseline="middle"
@@ -795,7 +795,7 @@ Bloque: 1 | Creditos: 1 | Horas: 3 | Area: Agronomía</title>
     <g id="nodo-AG3306" href="#curso-AG3306">
       <circle cx="345.0" cy="171.25000000000003" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="345.0" cy="171.25000000000003" r="18.333333333333332"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.4"/>
       <text id="label-AG3306" href="#curso-AG3306"
             x="345.0" y="171.25000000000003"
             text-anchor="middle" dominant-baseline="middle"
@@ -808,7 +808,7 @@ Bloque: 1 | Creditos: 2 | Horas: 3 | Area: Agronomía</title>
     <g id="nodo-BI1101" href="#curso-BI1101">
       <circle cx="345.0" cy="235.41666666666669" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="345.0" cy="235.41666666666669" r="19.5"
-              fill="#66bb6a" stroke="white" stroke-width="2"/>
+              fill="#66bb6a" stroke="white" stroke-width="2.2"/>
       <text id="label-BI1101" href="#curso-BI1101"
             x="345.0" y="235.41666666666669"
             text-anchor="middle" dominant-baseline="middle"
@@ -821,7 +821,7 @@ Bloque: 1 | Creditos: 3 | Horas: 9 | Area: Biología</title>
     <g id="nodo-BI1102" href="#curso-BI1102">
       <circle cx="345.0" cy="299.5833333333333" r="19.166666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="345.0" cy="299.5833333333333" r="17.166666666666668"
-              fill="#66bb6a" stroke="white" stroke-width="2"/>
+              fill="#66bb6a" stroke="white" stroke-width="1.4"/>
       <text id="label-BI1102" href="#curso-BI1102"
             x="345.0" y="299.5833333333333"
             text-anchor="middle" dominant-baseline="middle"
@@ -834,7 +834,7 @@ Bloque: 1 | Creditos: 1 | Horas: 3 | Area: Biología</title>
     <g id="nodo-CI1106" href="#curso-CI1106">
       <circle cx="345.0" cy="363.75" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="345.0" cy="363.75" r="18.333333333333332"
-              fill="#78909c" stroke="white" stroke-width="2"/>
+              fill="#78909c" stroke="white" stroke-width="1.8"/>
       <text id="label-CI1106" href="#curso-CI1106"
             x="345.0" y="363.75"
             text-anchor="middle" dominant-baseline="middle"
@@ -847,7 +847,7 @@ Bloque: 1 | Creditos: 2 | Horas: 6 | Area: Complementario</title>
     <g id="nodo-CI1230" href="#curso-CI1230">
       <circle cx="345.0" cy="427.91666666666663" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="345.0" cy="427.91666666666663" r="18.333333333333332"
-              fill="#00838f" stroke="white" stroke-width="2"/>
+              fill="#00838f" stroke="white" stroke-width="1.8"/>
       <text id="label-CI1230" href="#curso-CI1230"
             x="345.0" y="427.91666666666663"
             text-anchor="middle" dominant-baseline="middle"
@@ -860,7 +860,7 @@ Bloque: 1 | Creditos: 2 | Horas: 6 | Area: Idiomas</title>
     <g id="nodo-CS1502" href="#curso-CS1502">
       <circle cx="345.0" cy="492.0833333333333" r="19.166666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="345.0" cy="492.0833333333333" r="17.166666666666668"
-              fill="#6a1b9a" stroke="white" stroke-width="2"/>
+              fill="#6a1b9a" stroke="white" stroke-width="1.2666666666666666"/>
       <text id="label-CS1502" href="#curso-CS1502"
             x="345.0" y="492.0833333333333"
             text-anchor="middle" dominant-baseline="middle"
@@ -873,7 +873,7 @@ Bloque: 1 | Creditos: 1 | Horas: 2 | Area: Ciencias Sociales</title>
     <g id="nodo-MA0101" href="#curso-MA0101">
       <circle cx="345.0" cy="556.2500000000001" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="345.0" cy="556.2500000000001" r="18.333333333333332"
-              fill="#1565c0" stroke="white" stroke-width="2"/>
+              fill="#1565c0" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-MA0101" href="#curso-MA0101"
             x="345.0" y="556.2500000000001"
             text-anchor="middle" dominant-baseline="middle"
@@ -886,7 +886,7 @@ Bloque: 1 | Creditos: 2 | Horas: 5 | Area: Matemática</title>
     <g id="nodo-QU1102" href="#curso-QU1102">
       <circle cx="345.0" cy="620.4166666666667" r="19.166666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="345.0" cy="620.4166666666667" r="17.166666666666668"
-              fill="#ff9800" stroke="white" stroke-width="2"/>
+              fill="#ff9800" stroke="white" stroke-width="1.2666666666666666"/>
       <text id="label-QU1102" href="#curso-QU1102"
             x="345.0" y="620.4166666666667"
             text-anchor="middle" dominant-baseline="middle"
@@ -899,7 +899,7 @@ Bloque: 1 | Creditos: 1 | Horas: 2 | Area: Química</title>
     <g id="nodo-QU1106" href="#curso-QU1106">
       <circle cx="345.0" cy="684.5833333333334" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="345.0" cy="684.5833333333334" r="19.5"
-              fill="#ff9800" stroke="white" stroke-width="2"/>
+              fill="#ff9800" stroke="white" stroke-width="1.5333333333333332"/>
       <text id="label-QU1106" href="#curso-QU1106"
             x="345.0" y="684.5833333333334"
             text-anchor="middle" dominant-baseline="middle"
@@ -912,7 +912,7 @@ Bloque: 1 | Creditos: 3 | Horas: 4 | Area: Química</title>
     <g id="nodo-SE1100" href="#curso-SE1100">
       <circle cx="345.0" cy="748.75" r="18" fill="rgba(0,0,0,0.12)"/>
       <circle cx="345.0" cy="748.75" r="16"
-              fill="#78909c" stroke="white" stroke-width="2"/>
+              fill="#78909c" stroke="white" stroke-width="1.2666666666666666"/>
       <text id="label-SE1100" href="#curso-SE1100"
             x="345.0" y="748.75"
             text-anchor="middle" dominant-baseline="middle"
@@ -925,7 +925,7 @@ Bloque: 1 | Creditos: 0 | Horas: 2 | Area: Complementario</title>
     <g id="nodo-SE1200" href="#curso-SE1200">
       <circle cx="345.0" cy="812.9166666666667" r="18" fill="rgba(0,0,0,0.12)"/>
       <circle cx="345.0" cy="812.9166666666667" r="16"
-              fill="#78909c" stroke="white" stroke-width="2"/>
+              fill="#78909c" stroke="white" stroke-width="1.2666666666666666"/>
       <text id="label-SE1200" href="#curso-SE1200"
             x="345.0" y="812.9166666666667"
             text-anchor="middle" dominant-baseline="middle"
@@ -938,7 +938,7 @@ Bloque: 1 | Creditos: 0 | Horas: 2 | Area: Complementario</title>
     <g id="nodo-BI1201" href="#curso-BI1201">
       <circle cx="515.0" cy="113.5" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="515.0" cy="113.5" r="19.5"
-              fill="#66bb6a" stroke="white" stroke-width="2"/>
+              fill="#66bb6a" stroke="white" stroke-width="1.4"/>
       <text id="label-BI1201" href="#curso-BI1201"
             x="515.0" y="113.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -951,7 +951,7 @@ Bloque: 2 | Creditos: 3 | Horas: 3 | Area: Biología</title>
     <g id="nodo-BI1202" href="#curso-BI1202">
       <circle cx="515.0" cy="190.5" r="19.166666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="515.0" cy="190.5" r="17.166666666666668"
-              fill="#66bb6a" stroke="white" stroke-width="2"/>
+              fill="#66bb6a" stroke="white" stroke-width="1.2666666666666666"/>
       <text id="label-BI1202" href="#curso-BI1202"
             x="515.0" y="190.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -964,7 +964,7 @@ Bloque: 2 | Creditos: 1 | Horas: 2 | Area: Biología</title>
     <g id="nodo-BI2408" href="#curso-BI2408">
       <circle cx="515.0" cy="267.5" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="515.0" cy="267.5" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-BI2408" href="#curso-BI2408"
             x="515.0" y="267.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -977,7 +977,7 @@ Bloque: 2 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-CI1107" href="#curso-CI1107">
       <circle cx="515.0" cy="344.5" r="19.166666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="515.0" cy="344.5" r="17.166666666666668"
-              fill="#78909c" stroke="white" stroke-width="2"/>
+              fill="#78909c" stroke="white" stroke-width="1.4"/>
       <text id="label-CI1107" href="#curso-CI1107"
             x="515.0" y="344.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -990,7 +990,7 @@ Bloque: 2 | Creditos: 1 | Horas: 3 | Area: Complementario</title>
     <g id="nodo-CI1231" href="#curso-CI1231">
       <circle cx="515.0" cy="421.5" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="515.0" cy="421.5" r="18.333333333333332"
-              fill="#00838f" stroke="white" stroke-width="2"/>
+              fill="#00838f" stroke="white" stroke-width="1.4"/>
       <text id="label-CI1231" href="#curso-CI1231"
             x="515.0" y="421.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1003,7 +1003,7 @@ Bloque: 2 | Creditos: 2 | Horas: 3 | Area: Idiomas</title>
     <g id="nodo-FH1000" href="#curso-FH1000">
       <circle cx="515.0" cy="498.5" r="18" fill="rgba(0,0,0,0.12)"/>
       <circle cx="515.0" cy="498.5" r="16"
-              fill="#78909c" stroke="white" stroke-width="2"/>
+              fill="#78909c" stroke="white" stroke-width="1.2666666666666666"/>
       <text id="label-FH1000" href="#curso-FH1000"
             x="515.0" y="498.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1016,7 +1016,7 @@ Bloque: 2 | Creditos: 0 | Horas: 2 | Area: Complementario</title>
     <g id="nodo-MA1102" href="#curso-MA1102">
       <circle cx="515.0" cy="575.5" r="22.666666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="515.0" cy="575.5" r="20.666666666666668"
-              fill="#1565c0" stroke="white" stroke-width="2"/>
+              fill="#1565c0" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-MA1102" href="#curso-MA1102"
             x="515.0" y="575.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1029,7 +1029,7 @@ Bloque: 2 | Creditos: 4 | Horas: 5 | Area: Matemática</title>
     <g id="nodo-QU1104" href="#curso-QU1104">
       <circle cx="515.0" cy="652.5" r="19.166666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="515.0" cy="652.5" r="17.166666666666668"
-              fill="#ff9800" stroke="white" stroke-width="2"/>
+              fill="#ff9800" stroke="white" stroke-width="1.2666666666666666"/>
       <text id="label-QU1104" href="#curso-QU1104"
             x="515.0" y="652.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1042,7 +1042,7 @@ Bloque: 2 | Creditos: 1 | Horas: 2 | Area: Química</title>
     <g id="nodo-QU1107" href="#curso-QU1107">
       <circle cx="515.0" cy="729.5" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="515.0" cy="729.5" r="19.5"
-              fill="#ff9800" stroke="white" stroke-width="2"/>
+              fill="#ff9800" stroke="white" stroke-width="1.5333333333333332"/>
       <text id="label-QU1107" href="#curso-QU1107"
             x="515.0" y="729.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1055,7 +1055,7 @@ Bloque: 2 | Creditos: 3 | Horas: 4 | Area: Química</title>
     <g id="nodo-SE1400" href="#curso-SE1400">
       <circle cx="515.0" cy="806.5" r="18" fill="rgba(0,0,0,0.12)"/>
       <circle cx="515.0" cy="806.5" r="16"
-              fill="#78909c" stroke="white" stroke-width="2"/>
+              fill="#78909c" stroke="white" stroke-width="1.2666666666666666"/>
       <text id="label-SE1400" href="#curso-SE1400"
             x="515.0" y="806.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1068,7 +1068,7 @@ Bloque: 2 | Creditos: 0 | Horas: 2 | Area: Complementario</title>
     <g id="nodo-AG1002" href="#curso-AG1002">
       <circle cx="685.0" cy="130.0" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="685.0" cy="130.0" r="18.333333333333332"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.5333333333333332"/>
       <text id="label-AG1002" href="#curso-AG1002"
             x="685.0" y="130.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1081,7 +1081,7 @@ Bloque: 3 | Creditos: 2 | Horas: 4 | Area: Agronomía</title>
     <g id="nodo-AG2304" href="#curso-AG2304">
       <circle cx="685.0" cy="240.0" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="685.0" cy="240.0" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG2304" href="#curso-AG2304"
             x="685.0" y="240.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1094,7 +1094,7 @@ Bloque: 3 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG2701" href="#curso-AG2701">
       <circle cx="685.0" cy="350.0" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="685.0" cy="350.0" r="18.333333333333332"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.5333333333333332"/>
       <text id="label-AG2701" href="#curso-AG2701"
             x="685.0" y="350.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1107,7 +1107,7 @@ Bloque: 3 | Creditos: 2 | Horas: 4 | Area: Agronomía</title>
     <g id="nodo-IS1002" href="#curso-IS1002">
       <circle cx="685.0" cy="460.0" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="685.0" cy="460.0" r="18.333333333333332"
-              fill="#00838f" stroke="white" stroke-width="2"/>
+              fill="#00838f" stroke="white" stroke-width="1.4"/>
       <text id="label-IS1002" href="#curso-IS1002"
             x="685.0" y="460.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1120,7 +1120,7 @@ Bloque: 3 | Creditos: 2 | Horas: 3 | Area: Idiomas</title>
     <g id="nodo-NE1006" href="#curso-NE1006">
       <circle cx="685.0" cy="570.0" r="22.666666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="685.0" cy="570.0" r="20.666666666666668"
-              fill="#c62828" stroke="white" stroke-width="2"/>
+              fill="#c62828" stroke="white" stroke-width="2.6"/>
       <text id="label-NE1006" href="#curso-NE1006"
             x="685.0" y="570.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1133,7 +1133,7 @@ Bloque: 3 | Creditos: 4 | Horas: 12 | Area: Física</title>
     <g id="nodo-QU2402" href="#curso-QU2402">
       <circle cx="685.0" cy="680.0" r="19.166666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="685.0" cy="680.0" r="17.166666666666668"
-              fill="#ff9800" stroke="white" stroke-width="2"/>
+              fill="#ff9800" stroke="white" stroke-width="1.2666666666666666"/>
       <text id="label-QU2402" href="#curso-QU2402"
             x="685.0" y="680.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1146,7 +1146,7 @@ Bloque: 3 | Creditos: 1 | Horas: 2 | Area: Química</title>
     <g id="nodo-QU2407" href="#curso-QU2407">
       <circle cx="685.0" cy="790.0" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="685.0" cy="790.0" r="19.5"
-              fill="#ff9800" stroke="white" stroke-width="2"/>
+              fill="#ff9800" stroke="white" stroke-width="1.5333333333333332"/>
       <text id="label-QU2407" href="#curso-QU2407"
             x="685.0" y="790.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1159,7 +1159,7 @@ Bloque: 3 | Creditos: 3 | Horas: 4 | Area: Química</title>
     <g id="nodo-AG2101" href="#curso-AG2101">
       <circle cx="855.0" cy="130.0" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="855.0" cy="130.0" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG2101" href="#curso-AG2101"
             x="855.0" y="130.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1172,7 +1172,7 @@ Bloque: 4 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG2201" href="#curso-AG2201">
       <circle cx="855.0" cy="240.0" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="855.0" cy="240.0" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG2201" href="#curso-AG2201"
             x="855.0" y="240.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1185,7 +1185,7 @@ Bloque: 4 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG2203" href="#curso-AG2203">
       <circle cx="855.0" cy="350.0" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="855.0" cy="350.0" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG2203" href="#curso-AG2203"
             x="855.0" y="350.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1198,7 +1198,7 @@ Bloque: 4 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG2305" href="#curso-AG2305">
       <circle cx="855.0" cy="460.0" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="855.0" cy="460.0" r="18.333333333333332"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.4"/>
       <text id="label-AG2305" href="#curso-AG2305"
             x="855.0" y="460.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1211,7 +1211,7 @@ Bloque: 4 | Creditos: 2 | Horas: 3 | Area: Agronomía</title>
     <g id="nodo-AG2702" href="#curso-AG2702">
       <circle cx="855.0" cy="570.0" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="855.0" cy="570.0" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG2702" href="#curso-AG2702"
             x="855.0" y="570.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1224,7 +1224,7 @@ Bloque: 4 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-BI2301" href="#curso-BI2301">
       <circle cx="855.0" cy="680.0" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="855.0" cy="680.0" r="19.5"
-              fill="#66bb6a" stroke="white" stroke-width="2"/>
+              fill="#66bb6a" stroke="white" stroke-width="1.4"/>
       <text id="label-BI2301" href="#curso-BI2301"
             x="855.0" y="680.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1237,7 +1237,7 @@ Bloque: 4 | Creditos: 3 | Horas: 3 | Area: Biología</title>
     <g id="nodo-BI2303" href="#curso-BI2303">
       <circle cx="855.0" cy="790.0" r="19.166666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="855.0" cy="790.0" r="17.166666666666668"
-              fill="#66bb6a" stroke="white" stroke-width="2"/>
+              fill="#66bb6a" stroke="white" stroke-width="1.2666666666666666"/>
       <text id="label-BI2303" href="#curso-BI2303"
             x="855.0" y="790.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1250,7 +1250,7 @@ Bloque: 4 | Creditos: 1 | Horas: 2 | Area: Biología</title>
     <g id="nodo-AG2102" href="#curso-AG2102">
       <circle cx="1025.0" cy="130.0" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1025.0" cy="130.0" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG2102" href="#curso-AG2102"
             x="1025.0" y="130.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1263,7 +1263,7 @@ Bloque: 5 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG3106" href="#curso-AG3106">
       <circle cx="1025.0" cy="350.0" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1025.0" cy="350.0" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG3106" href="#curso-AG3106"
             x="1025.0" y="350.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1276,7 +1276,7 @@ Bloque: 5 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG3219" href="#curso-AG3219">
       <circle cx="1025.0" cy="460.0" r="22.666666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1025.0" cy="460.0" r="20.666666666666668"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG3219" href="#curso-AG3219"
             x="1025.0" y="460.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1289,7 +1289,7 @@ Bloque: 5 | Creditos: 4 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG3220" href="#curso-AG3220">
       <circle cx="1025.0" cy="570.0" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1025.0" cy="570.0" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG3220" href="#curso-AG3220"
             x="1025.0" y="570.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1302,7 +1302,7 @@ Bloque: 5 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG3221" href="#curso-AG3221">
       <circle cx="1025.0" cy="680.0" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1025.0" cy="680.0" r="18.333333333333332"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.4"/>
       <text id="label-AG3221" href="#curso-AG3221"
             x="1025.0" y="680.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1315,7 +1315,7 @@ Bloque: 5 | Creditos: 2 | Horas: 3 | Area: Agronomía</title>
     <g id="nodo-AG3222" href="#curso-AG3222">
       <circle cx="1025.0" cy="790.0" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1025.0" cy="790.0" r="19.5"
-              fill="#66bb6a" stroke="white" stroke-width="2"/>
+              fill="#66bb6a" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG3222" href="#curso-AG3222"
             x="1025.0" y="790.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1328,7 +1328,7 @@ Bloque: 5 | Creditos: 3 | Horas: 5 | Area: Biología</title>
     <g id="nodo-AG3001" href="#curso-AG3001">
       <circle cx="1025.0" cy="240.0" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1025.0" cy="240.0" r="18.333333333333332"
-              fill="#f57f17" stroke="white" stroke-width="2"/>
+              fill="#f57f17" stroke="white" stroke-width="1.5333333333333332"/>
       <text id="label-AG3001" href="#curso-AG3001"
             x="1025.0" y="240.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1341,7 +1341,7 @@ Bloque: 5 | Creditos: 2 | Horas: 4 | Area: Electivo</title>
     <g id="nodo-AG3107" href="#curso-AG3107">
       <circle cx="1195.0" cy="139.16666666666669" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1195.0" cy="139.16666666666669" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG3107" href="#curso-AG3107"
             x="1195.0" y="139.16666666666669"
             text-anchor="middle" dominant-baseline="middle"
@@ -1354,7 +1354,7 @@ Bloque: 6 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG3109" href="#curso-AG3109">
       <circle cx="1195.0" cy="267.5" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1195.0" cy="267.5" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG3109" href="#curso-AG3109"
             x="1195.0" y="267.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1367,7 +1367,7 @@ Bloque: 6 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG3223" href="#curso-AG3223">
       <circle cx="1195.0" cy="395.83333333333337" r="22.666666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1195.0" cy="395.83333333333337" r="20.666666666666668"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG3223" href="#curso-AG3223"
             x="1195.0" y="395.83333333333337"
             text-anchor="middle" dominant-baseline="middle"
@@ -1380,7 +1380,7 @@ Bloque: 6 | Creditos: 4 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG3403" href="#curso-AG3403">
       <circle cx="1195.0" cy="524.1666666666666" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1195.0" cy="524.1666666666666" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG3403" href="#curso-AG3403"
             x="1195.0" y="524.1666666666666"
             text-anchor="middle" dominant-baseline="middle"
@@ -1393,7 +1393,7 @@ Bloque: 6 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG3405" href="#curso-AG3405">
       <circle cx="1195.0" cy="652.5" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1195.0" cy="652.5" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG3405" href="#curso-AG3405"
             x="1195.0" y="652.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1406,7 +1406,7 @@ Bloque: 6 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG4001" href="#curso-AG4001">
       <circle cx="1195.0" cy="780.8333333333333" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1195.0" cy="780.8333333333333" r="19.5"
-              fill="#f57f17" stroke="white" stroke-width="2"/>
+              fill="#f57f17" stroke="white" stroke-width="1.5333333333333332"/>
       <text id="label-AG4001" href="#curso-AG4001"
             x="1195.0" y="780.8333333333333"
             text-anchor="middle" dominant-baseline="middle"
@@ -1419,7 +1419,7 @@ Bloque: 6 | Creditos: 3 | Horas: 4 | Area: Electivo</title>
     <g id="nodo-AG4700" href="#curso-AG4700">
       <circle cx="1365.0" cy="139.16666666666669" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1365.0" cy="139.16666666666669" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG4700" href="#curso-AG4700"
             x="1365.0" y="139.16666666666669"
             text-anchor="middle" dominant-baseline="middle"
@@ -1432,7 +1432,7 @@ Bloque: 7 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG4701" href="#curso-AG4701">
       <circle cx="1365.0" cy="267.5" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1365.0" cy="267.5" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG4701" href="#curso-AG4701"
             x="1365.0" y="267.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1445,7 +1445,7 @@ Bloque: 7 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG4702" href="#curso-AG4702">
       <circle cx="1365.0" cy="395.83333333333337" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1365.0" cy="395.83333333333337" r="18.333333333333332"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.5333333333333332"/>
       <text id="label-AG4702" href="#curso-AG4702"
             x="1365.0" y="395.83333333333337"
             text-anchor="middle" dominant-baseline="middle"
@@ -1458,7 +1458,7 @@ Bloque: 7 | Creditos: 2 | Horas: 4 | Area: Agronomía</title>
     <g id="nodo-CS3401" href="#curso-CS3401">
       <circle cx="1365.0" cy="524.1666666666666" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1365.0" cy="524.1666666666666" r="18.333333333333332"
-              fill="#6a1b9a" stroke="white" stroke-width="2"/>
+              fill="#6a1b9a" stroke="white" stroke-width="1.4"/>
       <text id="label-CS3401" href="#curso-CS3401"
             x="1365.0" y="524.1666666666666"
             text-anchor="middle" dominant-baseline="middle"
@@ -1471,7 +1471,7 @@ Bloque: 7 | Creditos: 2 | Horas: 3 | Area: Ciencias Sociales</title>
     <g id="nodo-IS1003" href="#curso-IS1003">
       <circle cx="1365.0" cy="652.5" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1365.0" cy="652.5" r="18.333333333333332"
-              fill="#6a1b9a" stroke="white" stroke-width="2"/>
+              fill="#6a1b9a" stroke="white" stroke-width="1.4"/>
       <text id="label-IS1003" href="#curso-IS1003"
             x="1365.0" y="652.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1484,7 +1484,7 @@ Bloque: 7 | Creditos: 2 | Horas: 3 | Area: Ciencias Sociales</title>
     <g id="nodo-NE1005" href="#curso-NE1005">
       <circle cx="1365.0" cy="780.8333333333333" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1365.0" cy="780.8333333333333" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.4"/>
       <text id="label-NE1005" href="#curso-NE1005"
             x="1365.0" y="780.8333333333333"
             text-anchor="middle" dominant-baseline="middle"
@@ -1497,7 +1497,7 @@ Bloque: 7 | Creditos: 3 | Horas: 3 | Area: Agronomía</title>
     <g id="nodo-AG4409" href="#curso-AG4409">
       <circle cx="1535.0" cy="139.16666666666669" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1535.0" cy="139.16666666666669" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG4409" href="#curso-AG4409"
             x="1535.0" y="139.16666666666669"
             text-anchor="middle" dominant-baseline="middle"
@@ -1510,7 +1510,7 @@ Bloque: 8 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG4703" href="#curso-AG4703">
       <circle cx="1535.0" cy="267.5" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1535.0" cy="267.5" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG4703" href="#curso-AG4703"
             x="1535.0" y="267.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1523,7 +1523,7 @@ Bloque: 8 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG4704" href="#curso-AG4704">
       <circle cx="1535.0" cy="395.83333333333337" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1535.0" cy="395.83333333333337" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG4704" href="#curso-AG4704"
             x="1535.0" y="395.83333333333337"
             text-anchor="middle" dominant-baseline="middle"
@@ -1536,7 +1536,7 @@ Bloque: 8 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG4705" href="#curso-AG4705">
       <circle cx="1535.0" cy="524.1666666666666" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1535.0" cy="524.1666666666666" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG4705" href="#curso-AG4705"
             x="1535.0" y="524.1666666666666"
             text-anchor="middle" dominant-baseline="middle"
@@ -1549,7 +1549,7 @@ Bloque: 8 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG4706" href="#curso-AG4706">
       <circle cx="1535.0" cy="652.5" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1535.0" cy="652.5" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG4706" href="#curso-AG4706"
             x="1535.0" y="652.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1562,7 +1562,7 @@ Bloque: 8 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-CS4402" href="#curso-CS4402">
       <circle cx="1535.0" cy="780.8333333333333" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1535.0" cy="780.8333333333333" r="18.333333333333332"
-              fill="#6a1b9a" stroke="white" stroke-width="2"/>
+              fill="#6a1b9a" stroke="white" stroke-width="1.4"/>
       <text id="label-CS4402" href="#curso-CS4402"
             x="1535.0" y="780.8333333333333"
             text-anchor="middle" dominant-baseline="middle"
@@ -1575,7 +1575,7 @@ Bloque: 8 | Creditos: 2 | Horas: 3 | Area: Ciencias Sociales</title>
     <g id="nodo-AG5004" href="#curso-AG5004">
       <circle cx="1705.0" cy="139.16666666666669" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1705.0" cy="139.16666666666669" r="19.5"
-              fill="#f57f17" stroke="white" stroke-width="2"/>
+              fill="#f57f17" stroke="white" stroke-width="1.5333333333333332"/>
       <text id="label-AG5004" href="#curso-AG5004"
             x="1705.0" y="139.16666666666669"
             text-anchor="middle" dominant-baseline="middle"
@@ -1588,7 +1588,7 @@ Bloque: 9 | Creditos: 3 | Horas: 4 | Area: Electivo</title>
     <g id="nodo-AG5221" href="#curso-AG5221">
       <circle cx="1705.0" cy="267.5" r="22.666666666666668" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1705.0" cy="267.5" r="20.666666666666668"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.5333333333333332"/>
       <text id="label-AG5221" href="#curso-AG5221"
             x="1705.0" y="267.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1601,7 +1601,7 @@ Bloque: 9 | Creditos: 4 | Horas: 4 | Area: Agronomía</title>
     <g id="nodo-AG5222" href="#curso-AG5222">
       <circle cx="1705.0" cy="395.83333333333337" r="20.333333333333332" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1705.0" cy="395.83333333333337" r="18.333333333333332"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.4"/>
       <text id="label-AG5222" href="#curso-AG5222"
             x="1705.0" y="395.83333333333337"
             text-anchor="middle" dominant-baseline="middle"
@@ -1614,7 +1614,7 @@ Bloque: 9 | Creditos: 2 | Horas: 3 | Area: Agronomía</title>
     <g id="nodo-AG5405" href="#curso-AG5405">
       <circle cx="1705.0" cy="524.1666666666666" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1705.0" cy="524.1666666666666" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG5405" href="#curso-AG5405"
             x="1705.0" y="524.1666666666666"
             text-anchor="middle" dominant-baseline="middle"
@@ -1627,7 +1627,7 @@ Bloque: 9 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG5700" href="#curso-AG5700">
       <circle cx="1705.0" cy="652.5" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1705.0" cy="652.5" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG5700" href="#curso-AG5700"
             x="1705.0" y="652.5"
             text-anchor="middle" dominant-baseline="middle"
@@ -1640,7 +1640,7 @@ Bloque: 9 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG5701" href="#curso-AG5701">
       <circle cx="1705.0" cy="780.8333333333333" r="21.5" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1705.0" cy="780.8333333333333" r="19.5"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="1.6666666666666665"/>
       <text id="label-AG5701" href="#curso-AG5701"
             x="1705.0" y="780.8333333333333"
             text-anchor="middle" dominant-baseline="middle"
@@ -1653,7 +1653,7 @@ Bloque: 9 | Creditos: 3 | Horas: 5 | Area: Agronomía</title>
     <g id="nodo-AG5507" href="#curso-AG5507">
       <circle cx="1875.0" cy="460.0" r="32.0" fill="rgba(0,0,0,0.12)"/>
       <circle cx="1875.0" cy="460.0" r="30.0"
-              fill="#2e7d32" stroke="white" stroke-width="2"/>
+              fill="#2e7d32" stroke="white" stroke-width="5.0"/>
       <text id="label-AG5507" href="#curso-AG5507"
             x="1875.0" y="460.0"
             text-anchor="middle" dominant-baseline="middle"
@@ -1703,5 +1703,15 @@ Bloque: 10 | Creditos: 12 | Horas: 30 | Area: Agronomía</title>
   <text x="1930" y="937" text-anchor="middle" font-size="6" fill="white">6 cr</text>
   <circle cx="1984" cy="933" r="26" fill="#9e9e9e" stroke="white" stroke-width="1.5"/>
   <text x="1984" y="937" text-anchor="middle" font-size="6" fill="white">12 cr</text>
+
+  <!-- ===== LEYENDA BORDE (HORAS) ===== -->
+  <rect x="1868" y="798" width="174" height="80" rx="6" fill="white" stroke="#ccc" opacity="0.95"/>
+  <text x="1876" y="814" font-size="10" font-weight="bold" fill="#333">Borde = Horas semanales</text>
+  <circle cx="1890" cy="848" r="14" fill="#9e9e9e" stroke="white" stroke-width="1"/>
+  <text x="1890" y="866" text-anchor="middle" font-size="7" fill="#555">pocas</text>
+  <circle cx="1948" cy="848" r="14" fill="#9e9e9e" stroke="white" stroke-width="3"/>
+  <text x="1948" y="866" text-anchor="middle" font-size="7" fill="#555">medias</text>
+  <circle cx="2010" cy="848" r="14" fill="#9e9e9e" stroke="white" stroke-width="5"/>
+  <text x="2010" y="866" text-anchor="middle" font-size="7" fill="#555">muchas</text>
 
 </svg>

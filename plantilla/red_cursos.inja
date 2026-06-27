@@ -127,6 +127,10 @@
     {% if nodo.creditos > 0 %}
       {% set r = radio_base + (nodo.creditos * (radio_max - radio_base)) / credito_max %}
     {% endif %}
+    {% set borde = 1 %}
+    {% if nodo.horas > 0 %}
+      {% set borde = 1 + (nodo.horas * 4) / 30 %}
+    {% endif %}
 
     {% set color = "#78909c" %}
     {% if nodo.area == "Agronomia" %}{% set color = "#2e7d32" %}{% endif %}
@@ -147,7 +151,7 @@
     <g id="nodo-{{ nodo.sigla }}" href="#curso-{{ nodo.sigla }}">
       <circle cx="{{ cx }}" cy="{{ cy }}" r="{{ r + 2 }}" fill="rgba(0,0,0,0.12)"/>
       <circle cx="{{ cx }}" cy="{{ cy }}" r="{{ r }}"
-              fill="{{ color }}" stroke="white" stroke-width="2"/>
+              fill="{{ color }}" stroke="white" stroke-width="{{ borde }}"/>
       <text id="label-{{ nodo.sigla }}" href="#curso-{{ nodo.sigla }}"
             x="{{ cx }}" y="{{ cy }}"
             text-anchor="middle" dominant-baseline="middle"
@@ -204,5 +208,17 @@ Bloque: {{ nodo.semestre }} | Creditos: {{ nodo.creditos }} | Horas: {{ nodo.hor
   <text x="{{ lx3 + 62 }}" y="{{ ly3 + 52 }}" text-anchor="middle" font-size="6" fill="white">6 cr</text>
   <circle cx="{{ lx3 + 116 }}" cy="{{ ly3 + 48 }}" r="26" fill="#9e9e9e" stroke="white" stroke-width="1.5"/>
   <text x="{{ lx3 + 116 }}" y="{{ ly3 + 52 }}" text-anchor="middle" font-size="6" fill="white">12 cr</text>
+
+  <!-- ===== LEYENDA BORDE (HORAS) ===== -->
+  {% set lx4 = ancho_total - 182 %}
+  {% set ly4 = alto_total - 252 %}
+  <rect x="{{ lx4 }}" y="{{ ly4 }}" width="174" height="80" rx="6" fill="white" stroke="#ccc" opacity="0.95"/>
+  <text x="{{ lx4 + 8 }}" y="{{ ly4 + 16 }}" font-size="10" font-weight="bold" fill="#333">Borde = Horas semanales</text>
+  <circle cx="{{ lx4 + 22 }}" cy="{{ ly4 + 50 }}" r="14" fill="#9e9e9e" stroke="white" stroke-width="1"/>
+  <text x="{{ lx4 + 22 }}" y="{{ ly4 + 68 }}" text-anchor="middle" font-size="7" fill="#555">pocas</text>
+  <circle cx="{{ lx4 + 80 }}" cy="{{ ly4 + 50 }}" r="14" fill="#9e9e9e" stroke="white" stroke-width="3"/>
+  <text x="{{ lx4 + 80 }}" y="{{ ly4 + 68 }}" text-anchor="middle" font-size="7" fill="#555">medias</text>
+  <circle cx="{{ lx4 + 142 }}" cy="{{ ly4 + 50 }}" r="14" fill="#9e9e9e" stroke="white" stroke-width="5"/>
+  <text x="{{ lx4 + 142 }}" y="{{ ly4 + 68 }}" text-anchor="middle" font-size="7" fill="#555">muchas</text>
 
 </svg>
